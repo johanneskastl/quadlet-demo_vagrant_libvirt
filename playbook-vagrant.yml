@@ -1,0 +1,4 @@
+---
+
+- name: 'Run quadlet-demo/playbook.yml'
+  ansible.builtin.import_playbook: quadlet-demo/playbook.yml
