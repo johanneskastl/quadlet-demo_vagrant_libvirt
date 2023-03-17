@@ -1,3 +1,6 @@
 [submodule "quadlet-demo"]
 	path = quadlet-demo
 	url = https://github.com/ygalblum/quadlet-demo
+[submodule "helpers"]
+	path = helpers
+	url = https://github.com/johanneskastl/helpers.git
